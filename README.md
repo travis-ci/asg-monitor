@@ -2,6 +2,8 @@
 
 monitor aws auto-scaling groups for suspended processes (usually instance termination) and post a message to slack.
 
+![sample screenshot](screenshot.png)
+
 ## install
 
 create a heroku app and add the required buildpacks:
